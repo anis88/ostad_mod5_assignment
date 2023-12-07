@@ -1,0 +1,4 @@
+admin|admin@example.com|$2y$10$ZRSAGM7c541aZQQ.e1y7Ue4tCx2WOwS0Q5mafG1ln2c/3EivaBNDe|admin
+john_doe|john.doe@example.com|$2y$10$ZRSAGM7c541aZQQ.e1y7Ue4tCx2WOwS0Q5mafG1ln2c/3EivaBNDe|user
+jane_smith|jane.smith@example.com|$2y$10$ZRSAGM7c541aZQQ.e1y7Ue4tCx2WOwS0Q5mafG1ln2c/3EivaBNDe|user
+anis|tasneemanis4@gmail.com|$2y$10$ZRSAGM7c541aZQQ.e1y7Ue4tCx2WOwS0Q5mafG1ln2c/3EivaBNDe|admin
